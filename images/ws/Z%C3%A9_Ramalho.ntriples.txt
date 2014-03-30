@@ -1,0 +1,150 @@
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/instrument>	<http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/genre>	<http://dbpedia.org/resource/Pop_music> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/occupation>	<http://dbpedia.org/resource/Songwriter> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://www.w3.org/2002/07/owl#Thing> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/instrument>	<http://dbpedia.org/resource/Viola_caipira> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Epic_Records_artists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/instrument>	<http://dbpedia.org/resource/Electric_guitar> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/occupation>	<http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/birthDate>	"1949-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://xmlns.com/foaf/0.1/name>	"Z\u00E9 Ramalho"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Performer110415638> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/genre>	<http://dbpedia.org/resource/Pop_music> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/genre>	<http://dbpedia.org/resource/Folk_music> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Living_people> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/wikiPageOutLinkCount>	"234"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/label>	<http://dbpedia.org/resource/Columbia_Records> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/pureUrl>	"yes"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/wikiPageRevisionID>	"541398279"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/instrument>	<http://dbpedia.org/resource/Acoustic_guitar> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/label>	<http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/hasPhotoCollection>	<http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Z\u00E9_Ramalho> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Portuguese-languageSingers> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/MusicGroup> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2000/01/rdf-schema#label>	"Z\u00E9 Ramalho"@it .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/birthName>	"Z\u00E9 Ramalho"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/CausalAgent100007347> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/occupation>	<http://dbpedia.org/resource/Guitarist> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://umbel.org/umbel/rc/MusicalPerformer> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Organism100004475> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://xmlns.com/foaf/0.1/depiction>	<http://upload.wikimedia.org/wikipedia/commons/7/7a/Ze_Ramalho.jpg> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://xmlns.com/foaf/0.1/surname>	"Ramalho"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Singer110599806> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/YagoLegalActor> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/genre>	<http://dbpedia.org/resource/Brazilian_rock> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/PeopleFromPara%C3%ADba> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/genre>	<http://dbpedia.org/resource/Folk_music> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/genre>	<http://dbpedia.org/resource/M%C3%BAsica_Popular_Brasileira> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Artist109812338> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/website>	<http://www.zeramalho.com.br> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2002/07/owl#sameAs>	<http://fr.dbpedia.org/resource/Z\u00E9_Ramalho> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2002/07/owl#sameAs>	<http://www.wikidata.org/entity/Q2756134> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/recordLabel>	<http://dbpedia.org/resource/Sony_Music_Entertainment> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/LivingThing100004258> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/abstract>	"Z\u00E9 Ramalho (born Jos\u00E9 Ramalho Neto on October 3, 1949 - Brejo do Cruz - Para\u00EDba, Brazil) is a Brazilian composer and performer. Z\u00E9 Ramalho has collaborated with various major Brazilian musicians, including Vanusa, Geraldo Azevedo and Alceu Valen\u00E7a to name a few. Ze Ramalho is also the first cousin of Elba Ramalho, a well known Brazilian composer and performer. As with many musicians back in his younger days, he was first influenced by rock and roll; however, at the age of 20, his music took a more Northeastern Brazilian approach. Z\u00E9 Ramalho's lyrics however, are very influenced by the socio-economic difficulties faced by the average Brazilian."@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/instrument>	<http://dbpedia.org/resource/Viola_caipira> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Entertainer109616922> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/recordLabel>	<http://dbpedia.org/resource/EMI> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/occupation>	<http://dbpedia.org/resource/Songwriter> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Brazilian_harmonica_players> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2002/07/owl#sameAs>	<http://pt.dbpedia.org/resource/Z\u00E9_Ramalho> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/wikiPageID>	"6975970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/instrument>	<http://dbpedia.org/resource/Electric_guitar> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/occupation>	<http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/recordLabel>	<http://dbpedia.org/resource/Epic_Records> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/RCARecordsArtists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/recordLabel>	<http://dbpedia.org/resource/Columbia_Records> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/caption>	"Z\u00E9 Ramalho performing live at the 2008 Virada Cultural in S\u00E3o Paulo, Brazil."@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Object100002684> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/genre>	<http://dbpedia.org/resource/Brazilian_rock> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://xmlns.com/foaf/0.1/givenName>	"Ze"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/label>	<http://dbpedia.org/resource/Sony_Music_Entertainment> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/genre>	<http://dbpedia.org/resource/M%C3%BAsica_Popular_Brasileira> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2000/01/rdf-schema#label>	"Z\u00E9 Ramalho"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/origin>	<http://dbpedia.org/resource/Brazil> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Brazilian_composers> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://xmlns.com/foaf/0.1/name>	"Ze Ramalho"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Composer109947232> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/wikiPageExternalLink>	<http://www.zeramalho.com.br/sec_biografia.php> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Brazilian_singer-songwriters> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/origin>	<http://dbpedia.org/resource/Brejo_do_Cruz> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/occupation>	<http://dbpedia.org/resource/Guitarist> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2002/07/owl#sameAs>	<http://yago-knowledge.org/resource/Z\u00E9_Ramalho> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/class>	"artist"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/instrument>	<http://dbpedia.org/resource/Harmonica> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Person100007846> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/BrazilianGuitarists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/hometown>	<http://dbpedia.org/resource/Brazil> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/LivingPeople> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Musician110340312> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/background>	"solo_singer"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/ColumbiaRecordsArtists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/wordnet_type>	<http://www.w3.org/2006/03/wn/wn20/instances/synset-musician-noun-1> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/MusicalArtist> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/label>	<http://dbpedia.org/resource/Epic_Records> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/PhysicalEntity100001930> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Person> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2000/01/rdf-schema#comment>	"Z\u00E9 Ramalho est un compositeur et chanteur Br\u00E9silien. Comme de nombreux musiciens de son \u00E9poque, il a d'abord \u00E9t\u00E9 influenc\u00E9 par le rock and roll. Cependant, \u00E0 l'\u00E2ge de 20 ans, sa musique s'est orient\u00E9e vers les styles du Nord-Est br\u00E9silien. Les paroles de Z\u00E9 Ramalho sont tr\u00E8s influenc\u00E9es par les difficult\u00E9s socio-\u00E9conomiques du Br\u00E9silien moyen."@fr .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Artist> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/ontology/Agent> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/wikiPageInLinkCount>	"115"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/hometown>	<http://dbpedia.org/resource/Brejo_do_Cruz> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/yearsActive>	"1975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Columbia_Records_artists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:1949_births> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/ns/prov#wasDerivedFrom>	<http://en.wikipedia.org/wiki/Z\u00E9_Ramalho?oldid=541398279> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/abstract>	""@it .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/recordLabel>	<http://dbpedia.org/resource/BMG_Rights_Management> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/YagoLegalActorGeo> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/birthDate>	"1949-10-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Contestant109613191> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Player110439851> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/SonyBMGArtists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2000/01/rdf-schema#label>	"Z\u00E9 Ramalho"@fr .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/id>	"p206304/biography"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Brazilian_guitarists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/recordLabel>	<http://dbpedia.org/resource/RCA_Records> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/BrazilianComposers> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Portuguese-language_singers> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2000/01/rdf-schema#comment>	""@it .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/origin>	<http://dbpedia.org/resource/Para%C3%ADba> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/dateOfBirth>	"1949"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/instrument>	<http://dbpedia.org/resource/Singing> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://schema.org/Person> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://xmlns.com/foaf/0.1/Person> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/EpicRecordsArtists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2000/01/rdf-schema#label>	"Z\u00E9 Ramalho"@pt .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/genre>	<http://dbpedia.org/resource/Forr%C3%B3> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/activeYearsStartYear>	"1975-01-01T00:00:00+02:00"^^<http://www.w3.org/2001/XMLSchema#gYear> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://xmlns.com/foaf/0.1/isPrimaryTopicOf>	<http://en.wikipedia.org/wiki/Z\u00E9_Ramalho> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/instrument>	<http://dbpedia.org/resource/Acoustic_guitar> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/label>	<http://dbpedia.org/resource/BMG_Rights_Management> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/instrument>	<http://dbpedia.org/resource/Harmonica> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2000/01/rdf-schema#comment>	"Z\u00E9 Ramalho (born Jos\u00E9 Ramalho Neto on October 3, 1949 - Brejo do Cruz - Para\u00EDba, Brazil) is a Brazilian composer and performer. Z\u00E9 Ramalho has collaborated with various major Brazilian musicians, including Vanusa, Geraldo Azevedo and Alceu Valen\u00E7a to name a few. Ze Ramalho is also the first cousin of Elba Ramalho, a well known Brazilian composer and performer."@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2002/07/owl#sameAs>	<http://it.dbpedia.org/resource/Z\u00E9_Ramalho> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/label>	<http://dbpedia.org/resource/Walt_Disney_Records> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/name>	"Ramalho, Ze"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Guitarist110151760> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/label>	<http://dbpedia.org/resource/RCA_Records> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/property/name>	"Z\u00E9 Ramalho"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:People_from_Para%C3%ADba> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:Sony_BMG_artists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Creator109614315> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/genre>	<http://dbpedia.org/resource/Forr%C3%B3> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/wikiPageExternalLink>	<http://www.zeramalho.com.br> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/BrazilianHarmonicaPlayers> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/recordLabel>	<http://dbpedia.org/resource/Walt_Disney_Records> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2000/01/rdf-schema#comment>	"Jos\u00E9 Ramalho Neto,, mais conhecido como Z\u00E9 Ramalho, \u00E9 um cantor e compositor brasileiro. Suas influ\u00EAncias musicais s\u00E3o uma mistura de elementos da cultura nordestina (cantadores, repentistas e rabequeiros), da Jovem Guarda, a sonoridade dos Beatles e a rebeldia de The Rolling Stones, Pink Floyd, Raul Seixas e, principalmente, Bob Dylan. H\u00E1 elementos da mitologia grega e de hist\u00F3rias em quadrinhos em suas m\u00FAsicas. Tem seis filhos: Christian, Ant\u00F4nio Wilson, Jo\u00E3o, Maria M."@pt .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/abstract>	"Jos\u00E9 Ramalho Neto,, mais conhecido como Z\u00E9 Ramalho, \u00E9 um cantor e compositor brasileiro. Suas influ\u00EAncias musicais s\u00E3o uma mistura de elementos da cultura nordestina (cantadores, repentistas e rabequeiros), da Jovem Guarda, a sonoridade dos Beatles e a rebeldia de The Rolling Stones, Pink Floyd, Raul Seixas e, principalmente, Bob Dylan. H\u00E1 elementos da mitologia grega e de hist\u00F3rias em quadrinhos em suas m\u00FAsicas. Tem seis filhos: Christian, Ant\u00F4nio Wilson, Jo\u00E3o, Maria M. , Jos\u00E9 e Linda; al\u00E9m de cinco netos, Ester e Miguel, filhos de Maria com Z\u00E9 Carlos; Ana Lua, filha de Jo\u00E3o com Mariana; Maria Lu\u00EDsa, e Felipe (2011), filhos de Christian e Tatiana. \u00C9 casado com Roberta Ramalho, m\u00E3e de Jos\u00E9 e Linda, h\u00E1 27 anos. Em outubro de 2008, a revista Rolling Stone promoveu a Lista dos Cem Maiores Artistas da M\u00FAsica Brasileira, cujo resultado colocou Z\u00E9 Ramalho na 41\u00AA posi\u00E7\u00E3o."@pt .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:RCA_Records_artists> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/thumbnail>	<http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ze_Ramalho.jpg/200px-Ze_Ramalho.jpg> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Musician110339966> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://purl.org/dc/terms/subject>	<http://dbpedia.org/resource/Category:M%C3%BAsica_Popular_Brasileira_singers> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/abstract>	"Z\u00E9 Ramalho est un compositeur et chanteur Br\u00E9silien. Comme de nombreux musiciens de son \u00E9poque, il a d'abord \u00E9t\u00E9 influenc\u00E9 par le rock and roll. Cependant, \u00E0 l'\u00E2ge de 20 ans, sa musique s'est orient\u00E9e vers les styles du Nord-Est br\u00E9silien. Les paroles de Z\u00E9 Ramalho sont tr\u00E8s influenc\u00E9es par les difficult\u00E9s socio-\u00E9conomiques du Br\u00E9silien moyen. Dans ses tout-d\u00E9buts, (Album \"Paebiru\"), Z\u00E9 Ramalho a flirt\u00E9 avec le folk Br\u00E9silien psych\u00E9d\u00E9lique avec un grand succ\u00E8s en compagnie du musicien Lula C\u00F4rtes. Aujourd'hui, les copies vinyles de son album de 1975 sont tr\u00E8s recherch\u00E9es et tr\u00E8s cot\u00E9es par les collectionneurs internationaux. Z\u00E9 Ramalho a enregistr\u00E9 17 albums solo et collabor\u00E9 avec les plus grands musiciens du Br\u00E9sil comme Vanusa, Geraldo Azevedo et Alceu Valen\u00E7a par exemple. Z\u00E9 Ramalho est aussi le cousin d'Elba Ramalho, une compositrice et musicienne tr\u00E8s connue."@fr .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://xmlns.com/foaf/0.1/homepage>	<http://www.zeramalho.com.br> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/Whole100003553> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/hometown>	<http://dbpedia.org/resource/Para%C3%ADba> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://dbpedia.org/class/yago/M%C3%BAsicaPopularBrasileiraSingers> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://www.w3.org/2002/07/owl#sameAs>	<http://rdf.freebase.com/ns/m.01l29d0> .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://dbpedia.org/ontology/background>	"solo_singer"@en .
+<http://dbpedia.org/resource/Z%C3%A9_Ramalho>	<http://xmlns.com/foaf/0.1/givenName>	"Z\u00E9 Ramalho"@en .
