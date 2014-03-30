@@ -1,79 +1,645 @@
+<!--
+Google IO 2012 HTML5 Slide Template
+
+Authors: Eric Bidelman <ebidel@gmail.com>
+         Luke Mahe <lukem@google.com>
+
+URL: https://code.google.com/p/io-2012-slides
+-->
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Google IO 2012</title>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">-->
+  <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+  <!--This one seems to work all the time, but really small on ipad-->
+  <!--<meta name="viewport" content="initial-scale=0.4">-->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="stylesheet" media="all" href="theme/css/default.css">
+  <link rel="stylesheet" media="all" href="theme/css/app.css">
+  <link rel="stylesheet" media="only screen and (max-device-width: 480px)" href="theme/css/phone.css">
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <style>
+    a {
+      border-bottom: none !important;
+      background: url(images/externallink.png) center right no-repeat;
+      padding-right: 19px;
+    }
+    #lod-cloud {
+      width: 400px;
+    }
+    #log-intro {
+      width: 100%;
+      height: 50%;
+    }
+    .subject {
+      color: #EF7B00;
+    }
+    .predicate {
+      color: #86BA0D;
+    }
+    .object {
+      color: #BE1789;
+    }
+  </style>
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->
+  <script data-main="js/slides" src="js/require-1.0.8.min.js"></script>
+</head>
+<body style="opacity: 0">
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Websemantic : " />
+<slides class="layout-widescreen">
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+<!-- <slide class="logoslide nobackground">
+  image UFPB, PPGI, 
+  http://www.ibiblio.org/hhalpin/homepage/presentations/ms2007/rdf.png
+  images/ws/sw-cube.png
+   <article class="flexbox vcenter">
+    <span><img src="images/ws/w3cSemWeb.png"></span>
+  </article>
+  <article class="flexbox vcenter">
+    <span><img id="log-intro" src="images/ws/w3cSemWeb.png"></span>
+  </article>
+</slide> -->
 
-    <title>Websemantic</title>
-  </head>
+<slide class="title-slide segue nobackground">
+  <!-- <aside class="gdbar"><img src="images/google_developers_icon_128.png"></aside> -->
+  <aside class="gdbar"><img src="images/ws/sw-cube.png"></aside>
+  <!-- The content of this hgroup is replaced programmatically through the slide_config.json. -->
+  <hgroup class="auto-fadein">
+    <h1 data-config-title><!-- populated from slide_config.json --></h1>
+    <h2 data-config-subtitle><!-- populated from slide_config.json --></h2>
+    <p data-config-presenter><!-- populated from slide_config.json --></p>
+  </hgroup>
+</slide>
 
-  <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/lucachaves/webSemantic">View on GitHub</a>
+<slide class="segue dark nobackground" >
+  
+    <!-- <aside class="gdbar"><img src="images/google_developers_icon_128.png"></aside> -->
+    <aside class="gdbar"><img src="images/ws/sw-cube.png"></aside>
+    <hgroup class="auto-fadein">
+      <h2>#1 História</h2>
+      <h3></h3>
+    </hgroup>
+  
+</slide>
 
-          <h1 id="project_title">Websemantic</h1>
-          <h2 id="project_tagline"></h2>
+<slide  >
+  
+    <hgroup>
+      <h2>Cenário</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><a href="http://www.urenio.org/wp-content/uploads/2011/11/Semantic-Web.jpg"><img alt="linkeddata1" src="images/ws/Semantic-Web.jpg" /></a></p></article>
+ 
+</slide>
 
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/lucachaves/webSemantic/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/lucachaves/webSemantic/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
-    </div>
+<slide  >
+  
+    <hgroup>
+      <h2>Desafio</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><a href="https://www.youtube.com/watch?v=4x_xzT5eF5Q"><img alt="linkeddata1" src="images/ws/linkeddata1.png" /></a></p></article>
+ 
+</slide>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+<slide  >
+  
+    <hgroup>
+      <h2>Desafio</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><a href="https://www.youtube.com/watch?v=4x_xzT5eF5Q"><img alt="linkeddata1" src="images/ws/linkeddata2.png" /></a></p></article>
+ 
+</slide>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+<slide  >
+  
+    <hgroup>
+      <h2>Desafio</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><a href="http://www.geonames.org/2950159/berlin.html">http://www.geonames.org/2950159/berlin.html</a>
+[<a href="http://sws.geonames.org/2950159/about.rdf">rdf</a>]</p>
+<p>É IGUAL A</p>
+<p><a href="http://en.wikipedia.org/wiki/Berlin">http://en.wikipedia.org/wiki/Berlin</a>
+[<a href="http://dbpedia.org/page/Berlin">rdf</a>]</p>
+<p>???????</p></article>
+ 
+</slide>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
+<slide  >
+  
+    <hgroup>
+      <h2>Registros</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><ul>
+<li>
+<p>Tim Berners-Lee no <a href="http://www.ted.com/speakers/tim_berners_lee">Ted</a>: </p>
+<ul>
+<li><a href="http://www.ted.com/talks/tim_berners_lee_on_the_next_web">http://www.ted.com/talks/tim_berners_lee_on_the_next_web</a></li>
+<li><a href="http://www.ted.com/talks/tim_berners_lee_the_year_open_data_went_worldwide">http://www.ted.com/talks/tim_berners_lee_the_year_open_data_went_worldwide</a></li>
+</ul>
+</li>
+<li>
+<p>"Linked Data - The Story So Far":</p>
+<ul>
+<li><a href="http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf">http://tomheath.com/papers/bizer-heath-berners-lee-ijswis-linked-data.pdf</a></li>
+</ul>
+</li>
+</ul></article>
+ 
+</slide>
+
+<slide class="segue dark nobackground" >
+  
+    <!-- <aside class="gdbar"><img src="images/google_developers_icon_128.png"></aside> -->
+    <aside class="gdbar"><img src="images/ws/sw-cube.png"></aside>
+    <hgroup class="auto-fadein">
+      <h2>#2 Fundamentos</h2>
+      <h3></h3>
+    </hgroup>
+  
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Web Semântica (WS)</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Segundo o W3C a <a href="http://www.w3.org/standards/semanticweb/">WS</a>:</p>
+<ul>
+<li>Refere-se a visão da Web como dados ligados;</li>
+<li>Transforma a "Web of documents" para "Web of data";</li>
+<li>Sugere: "...develop systems that can support trusted interactions over the network.";</li>
+<li>Permite: "...people to create <strong>data stores</strong> on the Web, build <strong>vocabularies</strong>, and write <strong>rules</strong> for handling data.";</li>
+<li>Envolve tecnologias como: RDF, SPARQL, OWL, and SKOS.</li>
+</ul></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Web Semântica (WS)</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Para consilidar a WS o W3C idealizou:</p>
+<ul>
+<li><a href="http://www.w3.org/standards/semanticweb/data">Linked Data</a></li>
+<li>Vocabulários (<a href="http://www.w3.org/standards/semanticweb/ontology">Ontologia</a>)</li>
+<li>Linguagem de consulta específica (<a href="http://www.w3.org/standards/semanticweb/query">SPARQL</a>)</li>
+<li><a href="http://www.w3.org/standards/semanticweb/inference">Inferência</a></li>
+<li>Aplicações verticais<ul>
+<li><a href="http://www.w3.org/2011/gld/">Government Linked Data Working Group</a></li>
+<li><a href="http://www.w3.org/2001/sw/hcls/">Semantic Web Health Care and Life Sciences Interest Group</a></li>
+<li><a href="http://www.w3.org/2001/sw/sweo/public/UseCases/">Outros casos de uso e estudo</a></li>
+</ul>
+</li>
+</ul></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Web Semântica (WS)</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><a href="http://www.w3.org/2006/Talks/0718-aaai-tbl/#(14)"><img alt="linkeddata1" src="images/ws/ws-stack.png" /></a></p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Linked Data (LD)</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Segundo o <a href="http://linkeddatabook.com/editions/1.0/">Bizier</a>:</p>
+<ul>
+<li>Use URIs as names for things.</li>
+<li>Use HTTP URIs, so that people can look up those names.</li>
+<li>When someone looks up a URI, provide useful information, using the standards (RDF, SPARQL).</li>
+<li>Include links to other URIs, so that they can discover more things.</li>
+</ul></article>
+ 
+</slide>
+
+<slide class="nobackground fill" >
+  
+    <hgroup>
+      <h2>Linking Open Data Cloud</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><ul>
+<li><a href="http://lod-cloud.net/">LOD Cloud</a></li>
+<li><a href="http://lod-cloud.net/state/">State of the LOD Cloud</a></li>
+</ul>
+<p><a href="http://lod-cloud.net/versions/2011-09-19/lod-cloud_colored.svg"><img alt="The Linking Open Data cloud diagram" src="images/ws/lod-cloud_colored-min.png" /></a></p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>REPOSITÓRIOS</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Exemplos:</p>
+<ul>
+<li>dbpedia - <a href="http://wiki.dbpedia.org/">http://wiki.dbpedia.org/</a></li>
+<li>freebase - <a href="http://www.freebase.com/">http://www.freebase.com/</a></li>
+<li>geonames - <a href="http://www.geonames.org/">http://www.geonames.org/</a></li>
+<li>yago - <a href="http://www.mpi-inf.mpg.de/yago-naga/yago/">http://www.mpi-inf.mpg.de/yago-naga/yago/</a></li>
+<li>dados.gov.br - <a href="http://dados.gov.br/">http://dados.gov.br/</a></li>
+<li>dados.gov.uk - <a href="http://data.gov.uk/">http://data.gov.uk/</a></li>
+</ul>
+<p>Os repositórios podem ter essa <a href="http://5stardata.info/">classificação</a>.</p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Ontologia</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Exemplos de vocabulários:</p>
+<ul>
+<li>RDF <a href="http://www.w3.org/1999/02/22-rdf-syntax-ns#">http://www.w3.org/1999/02/22-rdf-syntax-ns#</a></li>
+<li>RDF Schema <a href="http://www.w3.org/2000/01/rdf-schema#">http://www.w3.org/2000/01/rdf-schema#</a></li>
+<li>OWL <a href="http://www.w3.org/2002/07/owl#">http://www.w3.org/2002/07/owl#</a></li>
+<li>DC <a href="http://purl.org/dc/terms/">http://purl.org/dc/terms/</a></li>
+<li>FOAF <a href="http://xmlns.com/foaf/0.1/">http://xmlns.com/foaf/0.1/</a></li>
+<li>e-Vog <a href="http://vocab.e.gov.br/">http://vocab.e.gov.br/</a></li>
+</ul>
+<p>Repositório de vocabulários </p>
+<ul>
+<li>LOV <a href="http://lov.okfn.org/dataset/lov/">http://lov.okfn.org/dataset/lov/</a> </li>
+<li>DAML <a href="http://www.daml.org/ontologies/keyword.html">http://www.daml.org/ontologies/keyword.html</a></li>
+<li>Prefix <a href="http://prefix.cc/popular/all">http://prefix.cc/popular/all</a></li>
+</ul>
+<p>Também existe a possibilidade de se criar ontologias;</p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Estrutura</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Segundo <a href="http://www.slideshare.net/Culturadigital/an-introduction-to-semantic-web-and-linked-data">Gandon</a>:</p>
+<ul>
+<li>Os dados são representados através de Resource Description Framework (RDF);</li>
+<li>O RDF é um modelo de tripla onde tudo é representado por:</li>
+</ul>
+<p><img alt="image" src="images/ws/rdf-structure.png" />
+<img alt="image" src="images/ws/rdf-min.png" /></p>
+<ul>
+<li>O RDF é também um modelo gráfico que liga descrição com recursos (URI).</li>
+</ul></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Exemplos</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><a href="http://en.wikipedia.org/wiki/Z%C3%A9_Ramalho"><img alt="linkeddata1" src="images/ws/ze-wiki.png" /></a></p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Exemplos</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>DBPedia <a href="http://dbpedia.org/page/Z%C3%A9_Ramalho">http://dbpedia.org/page/Z%C3%A9_Ramalho</a>:</p>
+<p>(<span class="subject">Zé Ramalho</span>, <span class="predicate">instrument</span>, <span class="object">Singing</span>)</p>
+<p>(<span class="subject">Zé Ramalho</span>, <span class="predicate">genre</span>, <span class="object">Pop music</span>)</p>
+<p>(<span class="subject">Zé Ramalho</span>, <span class="predicate">hometown</span>, <span class="object">Brejo da Cruz</span>)</p>
+<p>(<span class="subject">Zé Ramalho</span>, <span class="predicate">homepage</span>, <span class="object">http://www.zeramalho.com.br</span>)</p>
+<p>(<span class="subject">Zé Ramalho</span>, <span class="predicate">sameAs</span>, <span class="object">http://yago-knowledge.org/resource/Z\u00E9_Ramalho</span>)</p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Exemplos</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><img alt="linkeddata1" src="images/ws/ze-graph2.png" /></p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Exemplos</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><img alt="linkeddata2" src="images/ws/ze-graph1.png" /></p>
+<p><a href="http://yago-knowledge.org/resource/Z\u00E9_Ramalho">http://yago-knowledge.org/resource/Z\u00E9_Ramalho</a> é recurso Zé Ramalho no Yago</p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Exemplos</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><img alt="linkeddata2" src="images/ws/ze-graph3.png" /></p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Exemplos</h2>
+      <h3></h3>
+    </hgroup>
+    <article class="flexbox vcenter"><p><img alt="linkeddata2" src="images/ws/ze-graph4.png" /></p></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>Exemplos</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><ol>
+<li>
+<p>Zé Ramalho</p>
+<ul>
+<li>Resource <ul>
+<li><a href="http://dbpedia.org/resource/Zé_Ramalho">DBPedia</a> (<a href="http://dbpedia.org/page/Z%C3%A9_Ramalho">HTML</a> e <a href="http://dbpedia.org/data/Z%C3%A9_Ramalho.rdf">RDF</a>);</li>
+<li><a href="http://yago-knowledge.org/resource/Zé_Ramalho">Yago</a> (<a href="http://lod.openlinksw.com/describe/?uri=http://yago-knowledge.org/resource/Z%C3%A9_Ramalho">HTML</a> e <a href="http://lod.openlinksw.com/sparql?query=define%20sql%3Adescribe-mode%20%22LOD%22%20%20DESCRIBE%20%3Chttp%3A%2F%2Fyago-knowledge.org%2Fresource%2FZ%C3%A9_Ramalho%3E&amp;output=application%2Frdf%2Bxml">RDF</a>);</li>
+</ul>
+</li>
+<li>Preview<ul>
+<li><a href="http://browse.semanticweb.org/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FZ%C3%A9_Ramalho&amp;days=7">LOD Browser</a> (<a href="http://iwb.fluidops.com/resource/?uri=http%3A%2F%2Fdbpedia.org%2Fresource%2FZ%C3%A9_Ramalho">fluidops</a> e <a href="http://triplr.org/html/dbpedia.org/resource/Z%C3%A9_Ramalho">Triplr</a>);</li>
+<li>VisualRDF - <a href="http://graves.cl/visualRDF/?url=http%3A%2F%2Fdbpedia.org%2Fdata%2FZ%25C3%25A9_Ramalho.rdf">Zé Ramalho DBPedia</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Pesquisa</p>
+<ul>
+<li><a href="http://www.rkbexplorer.com/">RKBExplorer</a>:<ul>
+<li><a href="http://acm.rkbexplorer.com/browse/?uri=social+network+analysis&amp;type=literal">http://acm.rkbexplorer.com/browse/?uri=social+network+analysis&amp;type=literal</a></li>
+<li><a href="http://acm.rkbexplorer.com/id/964776">http://acm.rkbexplorer.com/id/964776</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ol></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>FORMATOS</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Principais:</p>
+<ul>
+<li>RDF<ul>
+<li>RDF/XML </li>
+<li>JSON-LD </li>
+<li>Turtle </li>
+<li>Notation3 (n3)</li>
+<li>N-Triples</li>
+</ul>
+</li>
+<li>RDFa</li>
+<li>eRDF</li>
+<li>microformats</li>
+<li>microdata</li>
+</ul></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>SPARQL</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><ul>
+<li>Linguagem de consulta para WS;</li>
+<li>Utilizada nos repositórios através dos SPARQL endpoint: <ul>
+<li>DBpedia <a href="http://dbpedia.org/sparql">http://dbpedia.org/sparql</a>;</li>
+<li>Freebase <a href="http://www.freebase.com/query">http://www.freebase.com/query</a>.</li>
+</ul>
+</li>
+<li>Lista de SPARQL endpoint:<ul>
+<li><a href="http://datahub.io/">http://datahub.io/</a>;</li>
+<li><a href="http://www.w3.org/wiki/SparqlEndpoints">http://www.w3.org/wiki/SparqlEndpoints</a>;</li>
+</ul>
+</li>
+<li>Geralmente o Frontend dos SPARQL endpoint utiliza <a href="http://wifo5-03.informatik.uni-mannheim.de/pubby/">Pubby</a>;</li>
+</ul>
+<!-- http://sparqles.okfn.org/ --></article>
+ 
+</slide>
+
+<slide  >
+  
+    <hgroup>
+      <h2>SPARQL</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Exemplo 1 - capitais da Europa:</p>
+<pre><code>SELECT * WHERE {
+    ?subject rdf:type &lt;http://dbpedia.org/class/yago/CapitalsInEurope&gt;.
+    ?subject rdfs:label ?label.
+    ?subject rdfs:comment ?abstract.
+    FILTER (lang(?label) = "en" &amp;&amp; lang(?abstract) = "en")
+} LIMIT 20
 </code></pre>
+<p><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=SELECT+*+WHERE+%7B%0D%0A%09%09%3Fsubject+rdf%3Atype+%3Chttp%3A%2F%2Fdbpedia.org%2Fclass%2Fyago%2FCapitalsInEurope%3E.%0D%0A%09%09%3Fsubject+rdfs%3Alabel+%3Flabel.%0D%0A%09%09%3Fsubject+rdfs%3Acomment+%3Fabstract.%0D%0A%09%09FILTER+%28lang%28%3Flabel%29+%3D+%22en%22+%26%26+lang%28%3Fabstract%29+%3D+%22en%22%29%0D%0A%09%7D+LIMIT+20&amp;format=text%2Fhtml&amp;timeout=30000&amp;debug=on">Resultado</a></p></article>
+ 
+</slide>
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+<slide  >
+  
+    <hgroup>
+      <h2>SPARQL</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><p>Exemplo 2 - estados brasileiros:</p>
+<pre><code>PREFIX foaf:  &lt;http://xmlns.com/foaf/0.1/&gt;
+PREFIX dbpedia-owl: &lt;http://dbpedia.org/ontology/&gt;
+PREFIX dbpprop: &lt;http://dbpedia.org/property/&gt;
+SELECT ?label
+WHERE {
+    ?state rdfs:label ?label .
+    ?state dbpedia-owl:type &lt;http://dbpedia.org/resource/States_of_Brazil&gt; .
+    FILTER (lang(?label) = 'en')
+} ORDER BY ?label
+limit 1000
+</code></pre>
+<p><a href="http://dbpedia.org/sparql?default-graph-uri=http%3A%2F%2Fdbpedia.org&amp;query=PREFIX+foaf%3A++%3Chttp%3A%2F%2Fxmlns.com%2Ffoaf%2F0.1%2F%3E%0D%0A%09PREFIX+dbpedia-owl%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0D%0A%09PREFIX+dbpprop%3A+%3Chttp%3A%2F%2Fdbpedia.org%2Fproperty%2F%3E%0D%0A%09SELECT+%3Flabel%0D%0A%09WHERE+%7B%0D%0A%09%09%3Fstate+rdfs%3Alabel+%3Flabel+.%0D%0A%09%09%3Fstate+dbpedia-owl%3Atype+%3Chttp%3A%2F%2Fdbpedia.org%2Fresource%2FStates_of_Brazil%3E+.%0D%0A%09%09FILTER+%28lang%28%3Flabel%29+%3D+%27en%27%29%0D%0A%09%7D+ORDER+BY+%3Flabel%0D%0A%09limit+1000&amp;format=text%2Fhtml&amp;timeout=30000&amp;debug=on">Resultado</a></p></article>
+ 
+</slide>
 
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
+<slide class="segue dark nobackground" >
+  
+    <!-- <aside class="gdbar"><img src="images/google_developers_icon_128.png"></aside> -->
+    <aside class="gdbar"><img src="images/ws/sw-cube.png"></aside>
+    <hgroup class="auto-fadein">
+      <h2>#3 Referências</h2>
+      <h3></h3>
+    </hgroup>
+  
+</slide>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+<slide  >
+  
+    <hgroup>
+      <h2>Referências</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><ul>
+<li>
+<p>Curso/Tutorial</p>
+<ul>
+<li><a href="http://www.w3c.br/cursos/dados-abertos/banco.htm">http://www.w3c.br/cursos/dados-abertos/banco.htm</a></li>
+<li><a href="http://www.slideshare.net/fabien_gandon/w3c-tutorial-on-semantic-web-and-linked-data-at-www-2013">http://www.slideshare.net/fabien_gandon/w3c-tutorial-on-semantic-web-and-linked-data-at-www-2013</a></li>
+<li><a href="http://www.inf.ufsc.br/~ronaldo/ine5454/LinkedData.pdf">http://www.inf.ufsc.br/~ronaldo/ine5454/LinkedData.pdf</a></li>
+<li><a href="http://www.urenio.org/2011/11/17/semantic-web-for-smart-cities/">http://www.urenio.org/2011/11/17/semantic-web-for-smart-cities/</a></li>
+</ul>
+</li>
+<li>
+<p>Book</p>
+<ul>
+<li><a href="http://www.w3.org/wiki/SwBooks">http://www.w3.org/wiki/SwBooks</a></li>
+<li><a href="http://linkeddatabook.com/editions/1.0/">http://linkeddatabook.com/editions/1.0/</a></li>
+<li><a href="http://wifo5-03.informatik.uni-mannheim.de/bizer/pub/LinkedDataTutorial/">http://wifo5-03.informatik.uni-mannheim.de/bizer/pub/LinkedDataTutorial/</a></li>
+</ul>
+</li>
+</ul></article>
+ 
+</slide>
 
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
+<slide  >
+  
+    <hgroup>
+      <h2>Referências</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><ul>
+<li>
+<p>Vídeo</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=4x_xzT5eF5Q">https://www.youtube.com/watch?v=4x_xzT5eF5Q</a></li>
+<li><a href="https://www.youtube.com/watch?v=vioCbTo3C-4">https://www.youtube.com/watch?v=vioCbTo3C-4</a></li>
+</ul>
+</li>
+<li>
+<p>Artigos</p>
+</li>
+</ul></article>
+ 
+</slide>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+<slide  >
+  
+    <hgroup>
+      <h2>Referências</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><ul>
+<li>Ferramentas<ul>
+<li><a href="http://stack.lod2.eu/blog/">LOD2</a> e <a href="https://code.google.com/p/lmf/">LMF</a>;</li>
+<li>LOD Browser: [Visinav], [Marbles], [Disco], <a href="http://triplr.org/">Triplr</a>;</li>
+<li>Link: <a href="https://www.assembla.com/spaces/silk/wiki/Home">Silk</a>, <a href="http://aksw.org/Projects/LIMES.html">Limes</a>, <a href="https://code.google.com/p/rdfai/">RDFai</a>, <a href="https://github.com/samuraraujo/SERIMI-RDF-Interlinking">Serimi</a>;</li>
+<li>Graph RDF: <a href="http://graves.cl/visualRDF/">Graves</a>;</li>
+<li>Extração de RDF: <a href="http://linkeddata.uriburner.com/">UriBurner</a>;</li>
+<li>Triple store: <a href="http://www.openrdf.org/">Sesame</a>, <a href="http://marmotta.incubator.apache.org/">Apache Marmotta</a>, <a href="http://virtuoso.openlinksw.com/">Openlink Virtuoso</a>;</li>
+<li>Ontologia: <a href="http://protege.stanford.edu/">Protégé</a>;</li>
+<li>API: <a href="http://alignapi.gforge.inria.fr/">Alignment API</a>, <a href="http://owlapi.sourceforge.net/">OWL API</a>, <a href="http://jena.apache.org/">Jena API</a>, <a href="http://www.openrdf.org/">OpenRDF</a>;</li>
+<li>String Match: <a href="http://rockymadden.com/stringmetric/">Stringmetrics</a> e <a href="https://github.com/Simmetrics/simmetrics">Simmetrics</a>;</li>
+</ul>
+</li>
+</ul></article>
+ 
+</slide>
 
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+<slide  >
+  
+    <hgroup>
+      <h2>Referências</h2>
+      <h3></h3>
+    </hgroup>
+    <article ><ul>
+<li>Apresentações<ul>
+<li><a href="http://www.w3.org/2006/Talks/0718-aaai-tbl/#(1)">http://www.w3.org/2006/Talks/0718-aaai-tbl/#(1)</a></li>
+<li><a href="http://www.w3.org/2007/11/Talks/y2013.html">http://www.w3.org/2007/11/Talks/y2013.html</a></li>
+<li><a href="http://www.w3.org/2014/Talks/0123_phila_lata/">http://www.w3.org/2014/Talks/0123_phila_lata/</a></li>
+<li><a href="http://www.slideshare.net/Yasodara/web-semntica-uma-introduo">http://www.slideshare.net/Yasodara/web-semntica-uma-introduo</a></li>
+<li><a href="http://www.w3.org/2013/Talks/1016_phila_ldpoint/">http://www.w3.org/2013/Talks/1016_phila_ldpoint/</a></li>
+<li><a href="http://www.w3.org/2014/Talks/0220_phila_lod2014/">http://www.w3.org/2014/Talks/0220_phila_lod2014/</a></li>
+<li><a href="http://www.w3c.es/Presentaciones/2013/0514-openData_WSIS-MA/0514-openData_WSIS-MA.pdf">http://www.w3c.es/Presentaciones/2013/0514-openData_WSIS-MA/0514-openData_WSIS-MA.pdf</a></li>
+</ul>
+</li>
+</ul></article>
+ 
+</slide>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
 
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
+<slide class="thank-you-slide segue nobackground">
+  <!-- <aside class="gdbar right"><img src="images/google_developers_icon_128.png"></aside> -->
+  <aside class="gdbar right"><img src="images/ws/sw-cube.png"></aside>
+  <article class="flexbox vleft auto-fadein">
+    <h2>Obrigado!</h2>
+    <!-- <p>Important contact information goes here.</p> -->
+  </article>
+  <p class="auto-fadein" data-config-contact>
+    <!-- populated from slide_config.json -->
+  </p>
+</slide>
 
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
+<!-- <slide class="logoslide dark nobackground">
+  <article class="flexbox vcenter">
+    <span><img src="images/google_developers_logo_white.png"></span>
+  </article>
+</slide> -->
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Websemantic maintained by <a href="https://github.com/lucachaves">lucachaves</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+<slide class="backdrop"></slide>
 
-    
+</slides>
 
-  </body>
+<script>
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-XXXXXXXX-1']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+
+<!--[if IE]>
+  <script src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+  <script>CFInstall.check({mode: 'overlay'});</script>
+<![endif]-->
+</body>
 </html>
