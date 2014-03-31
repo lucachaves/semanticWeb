@@ -258,7 +258,8 @@ title: SPARQL
 	* Freebase <http://www.freebase.com/query>.
 * Lista de SPARQL endpoint:
 	* <http://datahub.io/>;
-	* <http://www.w3.org/wiki/SparqlEndpoints>;
+	* <http://sparqles.okfn.org/availability>;
+	* <http://www.w3.org/wiki/SparqlEndpoints>.
 * Geralmente o Frontend dos SPARQL endpoint utiliza [Pubby](http://wifo5-03.informatik.uni-mannheim.de/pubby/);
 
 <!-- http://sparqles.okfn.org/ -->
